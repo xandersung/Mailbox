@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
+options: "afad10516efe1531b1086dda40eb71c6"
+build_time: [529481107, 910725000]
+inputs:
+  "/Users/lqf510/Desktop/codePath/Mailbox/Mailbox/AppDelegate.swift": [529113422, 0]
+  "/Users/lqf510/Desktop/codePath/Mailbox/Mailbox/MailboxViewController.swift": [529481107, 0]
